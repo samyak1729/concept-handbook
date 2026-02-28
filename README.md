@@ -10,3 +10,6 @@ imp concepts in backend and ai you should know
 - [Wikipedia article on API](https://en.wikipedia.org/wiki/API): read only first sections
 - [Wikipedia article on WebAPI](https://en.wikipedia.org/wiki/Web_API): high level overview, theory and history
 - [AWS"s breief introduction to APIs](https://aws.amazon.com/what-is/api/): use this as quick notes
+
+### FastAPI
+- [Awesome FastAPI projects](https://github.com/mjhea0/awesome-fastapi#open-source-projects): Look at tutorials section
