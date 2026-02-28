@@ -13,3 +13,7 @@ imp concepts in backend and ai you should know
 
 ### FastAPI
 - [Awesome FastAPI projects](https://github.com/mjhea0/awesome-fastapi#open-source-projects): Look at tutorials section
+
+
+### Git
+- [Learn git by building it](https://www.leshenko.net/p/ugit/)
